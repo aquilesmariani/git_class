@@ -1,3 +1,3 @@
 # Bienvenidos al nuevo repo
 
-## TODO: Crear react app usando next.js
+## JS file ready on src/index.js
